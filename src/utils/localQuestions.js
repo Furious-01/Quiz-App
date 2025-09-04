@@ -1,0 +1,42 @@
+export const localQuestions = [
+  {
+    id: 0,
+    question: "What is the capital of France?",
+    options: ["London", "Berlin", "Paris", "Madrid"],
+    correctAnswer: "Paris",
+    category: "Geography",
+    difficulty: "easy",
+  },
+  {
+    id: 1,
+    question: "Which planet is known as the Red Planet?",
+    options: ["Venus", "Mars", "Jupiter", "Saturn"],
+    correctAnswer: "Mars",
+    category: "Science",
+    difficulty: "easy",
+  },
+  {
+    id: 2,
+    question: "Who painted the Mona Lisa?",
+    options: ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    correctAnswer: "Leonardo da Vinci",
+    category: "Art",
+    difficulty: "medium",
+  },
+  {
+    id: 3,
+    question: "What is the largest mammal in the world?",
+    options: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    correctAnswer: "Blue Whale",
+    category: "Science",
+    difficulty: "easy",
+  },
+  {
+    id: 4,
+    question: "In which year did World War II end?",
+    options: ["1944", "1945", "1946", "1947"],
+    correctAnswer: "1945",
+    category: "History",
+    difficulty: "medium",
+  },
+];
