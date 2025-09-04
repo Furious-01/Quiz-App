@@ -38,3 +38,52 @@ Deployed on **Vercel** 🚀.
    ```bash
    git clone https://github.com/Furious-01/Quiz-App.git
    cd Quiz-App
+   
+Install dependencies:
+
+npm install
+
+
+Run the app locally:
+
+npm run dev
+
+
+Open in browser:
+
+http://localhost:5173/
+
+
+
+🤝 Contributing
+
+Fork the repo 🍴
+
+Create a new branch (git checkout -b feature-branch)
+
+Make changes and commit (git commit -m "Added new feature")
+
+Push to your fork (git push origin feature-branch)
+
+Create a Pull Request ✨
+
+🔒 Branch Protection
+
+The main branch is protected.
+
+Direct pushes are restricted.
+
+All changes must go through a Pull Request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+## 👨‍💻 Author  
+
+Developed by **Taha Mustafa**  
+
+🔗 [GitHub Profile](https://github.com/Furious-01)  
+
+🌐 [Live Quiz App](https://quiz-app-pied-eta.vercel.app)
