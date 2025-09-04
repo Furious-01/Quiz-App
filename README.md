@@ -39,35 +39,34 @@ Deployed on **Vercel** 🚀.
    git clone https://github.com/Furious-01/Quiz-App.git
    cd Quiz-App
    
-Install dependencies:
+## Install dependencies:
 
-npm install
-
-
-Run the app locally:
-
-npm run dev
+   npm install
 
 
-Open in browser:
+## Run the app locally:
+
+   npm run dev
+
+
+## Open in browser:
 
 http://localhost:5173/
 
 
+## 🤝 Contributing
 
-🤝 Contributing
+      Fork the repo 🍴
 
-Fork the repo 🍴
+      1.Create a new branch (git checkout -b feature-branch)
 
-Create a new branch (git checkout -b feature-branch)
+      2.Make changes and commit (git commit -m "Added new feature")
 
-Make changes and commit (git commit -m "Added new feature")
+      3.Push to your fork (git push origin feature-branch)
 
-Push to your fork (git push origin feature-branch)
+      4.Create a Pull Request ✨
 
-Create a Pull Request ✨
-
-🔒 Branch Protection
+## 🔒 Branch Protection
 
 The main branch is protected.
 
@@ -75,7 +74,7 @@ Direct pushes are restricted.
 
 All changes must go through a Pull Request.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
